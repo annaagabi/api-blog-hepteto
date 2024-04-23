@@ -92,6 +92,15 @@ Exclui uma postagem existente com base no `id`:
         "message: "Post removido com sucesso",
     }
 
+### Protótipo
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/MRoDkeoPnoejWxxrph0mlY/Blog-Hepteto?type=design&node-id=0%3A1&mode=design&t=uoNIlvDMrP8Ogvvl-1)
+
+### API
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://api-blog-hepteto-anna.vercel.app) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annaagabi/api-blog-hepteto)
+
+### Consumo da API
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://blog-hepteto-anna.vercel.app/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annaagabi/Blog-Hepteto)
+
 ## Autores
 
 - [@annaagabi](https://www.github.com/annaagabi)
